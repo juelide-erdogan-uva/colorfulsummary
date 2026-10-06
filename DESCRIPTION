@@ -1,0 +1,14 @@
+Package: colorfulsummary
+Title: Summaries in Rainbow Colors
+Version: 0.0.0.9000
+Authors@R: 
+    person("Julide", "Erdogan", , "julide.erdogan@student.uva.nl", role = c("aut", "cre"))
+Description: This package helps you create a colorful summary of your data by
+    providing a summary table and histogram in rainbow colors.
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports: 
+    ggplot2,
+    gt
