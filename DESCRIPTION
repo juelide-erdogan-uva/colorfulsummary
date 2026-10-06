@@ -12,3 +12,5 @@ Roxygen: list(markdown = TRUE)
 Imports: 
     ggplot2,
     gt
+URL: https://github.com/juelide-erdogan-uva/colorfulsummary
+BugReports: https://github.com/juelide-erdogan-uva/colorfulsummary/issues
